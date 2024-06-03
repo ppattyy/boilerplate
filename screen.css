@@ -1,4 +1,4 @@
 /* Add screen styles below */
-a.active {
-    font-weight: bold;
+body {
+    background: #aaa;
 }
