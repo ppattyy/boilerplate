@@ -1,4 +1,21 @@
 /* Add screen styles below */
 body {
-    background: #aaa;
+    background: #fff;
+    font-family: Helvetica, sans-serif;
+    border-top: 15px solid #424242;
+    margin: 0;
+    color: #424242;
 }
+
+main {
+    margin: 0 auto;
+    width: 800px;
+}
+.details {
+    display: flex;
+}
+
+img {
+    width: 100%;
+}
+
