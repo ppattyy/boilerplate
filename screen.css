@@ -26,14 +26,44 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #c8c8c8;
-    padding: 20px;
     border-radius: 20px;
     margin-top: 25px;
+}
+
+.details section p {
+    margin: 20px;
+}
+
+.details section h2 {
+    margin: 20px;
+}
+
+.details section.with-code {
+    padding: 0;
+}
+
+
+div.code-html {
+    padding: 25px;
+    background: #424242;
+    color: #fff;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 img {
     width: 100%;
     
+}
+
+h1 {
+    background-image: url(images/Logo.png);
+    background-repeat: no-repeat;
+    font-size: 2cm;
+    background-size: 50px;
+    padding-left: 50px;
+    background-position: center left;
+    margin: 100px 0 25px 0;
 }
 
 h2 {
